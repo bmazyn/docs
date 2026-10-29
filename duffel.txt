@@ -1,3 +1,16 @@
+######### Chapter 1 #########
+
+<<<< maybe later start with a flash forward scene >>>>
+Old Man Brian is standing in a bank line like it's completely routine, getting a $1,200 deposit ready.
+
+He pulls out the roll and counts it.  $1,300.
+
+He takes out the $1,200 for the deposit, then stops and stares at the last $100 bill.  *Wait. That's all of it.*
+
+“That's all of it!”   He says it louder than he expected.
+
+-----
+
 Brian is walking alone through his neighborhood. He notices cash sticking out of a duffel bag partially hidden under a bush. He looks inside. The bag is only about one-third full, but it's all cash.
 
 The decision: Nobody is around. He pushes the bag farther under the bush, sits on a nearby bench, and watches for about an hour. Nobody comes looking for it. He finally takes the bag to his car. After sitting there nervously for about a minute, he drives home.
@@ -12,7 +25,7 @@ The garage: He gets a little braver and spends $600 on a TV for the garage, then
 
 The bank experiment: He decides to see what happens if he puts a little cash into his bank account. He chooses to take out 5 $100 bills. The deposit goes normally. Back home, he repeatedly checks the banking app, half expecting to see ILLEGAL ACTIVITY / ACCOUNT FROZEN / $0. Nothing happens.
 
-CH2
+######### Chapter 2 #########
 
 The safe: It finally occurs to him that keeping $2.4 million in a junk box isn't particularly smart. He brings about $2,000 on a safe. But he's too paranoid to have it delivered, so he picks it up himself.      /* and now has the ridiculous problem of figuring out how to get this enormous safe out of his vehicle. */
 He goes to a sporting good store and picks s safe 30 inch tall and 24 inch wid.   This things weights almost 200 lbs,  im going need something to wheel it into the garage.  finds a rolling cart that should help him move it purchases both cash at $1,311,  then the store employee helps him get it into the back of his 2016 mazda suv
@@ -97,7 +110,7 @@ Good.  Maybe tonight he'll actually sleep.
 	Spent:      $2,300 ish
 
 
-### Chapter 3
+######### Chapter 3 #########
 
 Brian wakes up Sunday morning and almost immediately thinks about the woods.
 
@@ -192,7 +205,7 @@ Oh, I need a second bank account at a different bank.  I will figure that out to
 	Spent:        xxxx     decides not to track this anymore
 	Safe 2:   $2,400,000
 
-### Chapter 4
+######### Chapter 4 #########
 
 Wakes up for work and goes in garage safe and grabs 20 bills.  Preparing to open a new bank account with $2,000.   
 
@@ -287,7 +300,7 @@ Also realized he is not spend that much of his paycheck that is direct deposit i
 	Safe 2:                   $2,400,000
 
 
-### Chapter 5
+######### Chapter 5 #########
 
 Waking up in a sweat from a dream that all his accounts were frozen, Brian frantically checks his bank accounts on his phone.
 
@@ -388,7 +401,7 @@ Is this the person who lost the money... or just some random guy doing exactly w
 	Safe 2:                 $2,400,000
 
 
-### Chapter 6
+######### Chapter 6 #########
 
 Over the next month, Brian makes four more deposits.
 
@@ -416,6 +429,1987 @@ Nobody has accused him of anything. Nobody has even really questioned him.
 
 But somehow he's always slightly paranoid.
 
+He thinks, "Screw it, I'm getting a new car." His accounts are growing since he doesn't spend much of his paycheck other than the mortgage and a couple of bills. Groceries, eating out, and buying things are almost always paid for with cash.
+
+He sees that the new 2017 models are coming out even though it's still late 2016. *Okay, a midsize SUV is what I want.* After some research, he narrows it down to the Toyota 4Runner or Mazda CX-9. He's had good luck with the Mazda, but his heart is set on the Toyota, so he finds a dealership nearby.
+
+The morning before work, he grabs $5,000 in bills. He figures this will be part of the down payment along with his trade-in, and he'll finance the rest.
+
+At work, he finds out he'll be spending Friday night leading a huge database migration. It starts at 8:00 p.m. and, if everything goes right, will finish sometime Saturday morning.
+
+"Well, there goes climbing."
+
+By the end of the day, the thought of spending Friday night staring at a database makes buying the 4Runner sound even better.
+
+After work, he drives to the Toyota dealership.
+
+While he's there, he decides to just pull the trigger. "I overthink everything."
+
+The 4Runner costs $34,000. He gets $6,000 for the Mazda and puts down the $5,000 in cash. With fees and taxes, he finances $25,500, which comes out to $548 a month for four years.
+
+The next couple of days are all about preparing for the big weekend database migration.
+
+But while he's working, another thought keeps popping into Brian's head.
+
+Thoughts of using this money to not work keep popping into Brian's head.
+
+But how?
+
+He starts making a list.
+
+Pay off the house.  
+Pay off the 4Runner.  
+Get enough money into the bank to live on for a few years.  
+Figure out health insurance.
+
+Then he looks at the list.
+
+*Yeah. Except almost all my money is sitting in two safes.*
+
+He thinks about it some more.
+
+*I need to find some way to turn the cash into legitimate-looking income.*
+
+*Okay. That one sounds pretty illegal.*
+
+For now, he has a long Friday night to prepare for. He works from home Friday and even manages to get in a short nap during the day.
+
+Then the database migration starts, and it all goes to hell.
+
+By 7:00 Saturday morning, Brian hasn't slept at all and there are still hours of work left. Around 2:00 p.m., they finally decide to give everyone six hours off and resume at 8:00 that night.
+
+Brian gets about four hours of sleep.
+
+At 8:00 p.m. he's back at it. They finally finish around 6:00 Sunday morning.
+
+He wakes up around noon and orders two pizzas that he plans to eat for lunch and dinner. The rest of Sunday is basically pizza and naps. Of course, by Sunday night he can't sleep.
+
+He gets to work Monday expecting fallout from the migration, but there really isn't much. No emergencies, no major issues. That gives him plenty of time to start thinking again about how he could actually use all that cash.
+
+Then, toward the end of the day, they find a problem from the migration.
+
+Brian ends up working hours late.
+
+By the time he finally finishes, he's beyond annoyed.
+
+At least he gets to climb later in the week. On the way home, he stops at the bank to make another $2,000 deposit.
+
+But this time something feels different.
+
+The teller looks at the cash, then at his account on the screen.
+
+“Do you run a business?”
+
+Brian pauses.
+
+“No. Why?”
+
+“Oh, nothing. You've just had quite a few cash deposits lately.”
+
+She finishes the deposit and hands him the receipt.
+
+“Have a good evening.”
+
+“You too.”
+
+Brian walks out to the 4Runner and sits there for a minute.    
+
+“Shit, Maybe I should at least have a better excuse. Some kind of business.*
+
+Maybe he could say he does some tutoring. If they ask more questions, he'll start talking about database programming until they're bored enough to stop asking.
+
+Then another thought hits him.
+
+"Hey, maybe that's actually a decent business idea."
+
+He could tutor people in database programming. Some of the students could even be fake. They paid him cash. Now he has cash to deposit.
+
+Or personal training. Maybe rock-climbing lessons.
+
+Brian laughs.
+
+"Just hope they don't ever see me climb. I'm not very good."
+
+But he does climb. That's the important part.
+
+He sits there thinking about the bank again. Maybe he shouldn't keep coming to the same branch.
+
+Then he catches himself.
+
+"Crap. Now I'm planning how to make my bank deposits look less suspicious, and fake business ideas"
+
+He starts the 4Runner.
+
+"I'll keep the tutoring thing in mind."
+
+	Safe 1:                 $2,353,800
+	Primary Acct Deposits:     $12,100
+	New Acct Deposits:         $12,400
+	Safe 2:                 $2,400,000
+
+######### Chapter 7 #########
+
+At the grocery store, Brian uses the bill-pay counter to pay the cable, internet, and electric bills in cash.
+
+While he's there, he looks through the list of companies they accept payments for.
+
+Toyota Financial Services.
+
+Wait. I can pay the 4Runner here too?
+
+That gets his attention.  I will bring my payment slip next time and check
+
+Goes climbing that Saturday morning,  sees Mei there,  of she is never there Saturday morning, interesting.
+
+they chat, she says "i needed to change my schedule for my school internship"  Brian climbs some with Mei and his normal Saturday morning group.  Mentioning that he usually climbs  Monday, Wednesday after work and Saturday mornings.
+Towards the end Mei ask how old are you "Brian says I just turned 33"   she says "I will be 27 next month."
+Thinking hey that is not a little closer that i might have thought, who knows  
+
+The following week Brian checks on the Toyota Financial Services bill pay at the grocery store, Ask if it is possible to pay his car payment here,  hand the payment coupon over and decided to pay $600 toward the payment,  This activity went off without a hitch.  
+
+makes a couple deposits in each account all under 2k in random amounts,  wals to near the parking lot and just glances over from a distance, never seeing anything.   He has given up trying to find and thing else.  mostly seeing if someone is looking for anything. which could be risky if done too often, so most of the time he just goes to park and back.
+
+see mei at the gym sometimes during the week and on Saturdays.  
+
+over the next month make 4 deposits of around $1,500  and makes another car payment of $800.
+
+One Saturday after climbing Mei mentions that she is going back to Taiwan for a few weeks.  Brian said "oh, before the next school semester?"  she says "yes, for my last year"    He ask so what after that?  She say "i will be interviewing for internship for the final year of the PHD program, it could be anywhere, not really up to me"
+Oh wow that is interesting, well have a great time in Taiwan" he says,  waves bye as she walks to her car.
+
+On the ride home Brian thinks so no climbing with Mei.   Thinks back to the safes full of cash in his closet and how worrying about someone looking for it or trying to find another bag is not even in his mind at all anymore.  it is only thoughts of how to use and spend the money.  If the deposits is going to trigger so "whats that word" staging no, structuring, yes thats it.   
+
+I guess i should take a week off of deposts, typical when a bad thought comes up, just wait a bit.  not even sure if this is a good strategy.  Not like he can just goggle "how to deposit million in cash"  
+
+starts thinking of the goal,  live in a big city, with a weekend cabin or cottage, "i mean not even sure i know the difference between them",  "oh yeah" retire early!
+
+researched this at some point and most sounded too expensive to live and work in.  Why go through that when Houston is a city I love with some flaws.  Well they will all have flaws.
+
+I would not really want something too cold like Boston which i liked but probably not to live in.   But the cabin could be more south.  Well I'm not moving now let just see how it all workout.
+
+So into sure where yet really likes this idea especially a city that is walkable but not too over crowded.
+
+He has been steady with either climbing or biking or walking.  Hadley toughing the treadmill in the garage, thinking back to when the garage was going to be my hideout with my safe full of money in there with me.  
+
+one after work walk starts thinking about the deposits and how to speed up this process,  he goes back to the database programming tutor rock-climbing lessons for cash, or really pretend lessons so he can have a reason for the cash.
+
+then thinks of the reasons not, like how to file on taxe.   then "wait, forget that lets makea  list of business ideas, make it to 10, dont think why not yet, critic them later."
+
+1  database / sql turtoring  
+2  climbing lessons
+3  garage sell resale
+4  gambling, just play until your up
+5  buy car cash and sale get check
+6  buy house that needs work, hire contractors pay them cash, then sell house
+7  buy and sell sports cards  
+8  buy and sell watches
+9  or what things do people collect (coins, shoes, sports memorabilia ...)
+10 some kind of storage wars thing
+
+ok i made it to 10, now what is wrong with these
+
+1  database / sql turtoring      -    I do that at work dont really want to, plus how to claim it as income
+shit is it incode,  i need this in a spreadsheet, also can i get non cash.  I have enough of that
+
+columns:  idea, pros, cons, can i get paid in non cash, would taxes be complex
+
+spend an hour updating the spreadsheet
+
+
+IDEA                         PROS                         CONS                         NON-CASH?    TAXES
+----------------------------------------------------------------------------------------------------------------
+1. SQL tutoring              Know how to do it           Already do it all day        Yes          Medium
+                                                          Don't want another job
+
+2. Climbing lessons          Enjoy climbing              Not good enough?             Yes          Medium
+                                                          Liability
+
+3. Garage sale resale        Easy to start               Lots of work, 
+                                                          coordinate sale for         Yes          Medium
+                                                          Small amounts
+
+4. Gambling                  Could be fun                 Could lose money            Maybe        High
+                                                          Unpredictable, 
+                                                          could become adicting
+
+5. Buy/sell cars             Bigger amounts              Titles / paperwork           Yes          High
+                                                          Could lose money
+
+6. Flip a house              BIG amounts                 Big project                  Yes          High
+                                                          Contractors / paperwork
+                                                          Could lose a lot
+
+7. buy/sell Sports cards     Easy to store               Don't know enough            Yes          Medium
+                                                          Fakes / prices change
+
+8. buy/sell Watches          Small / expensive           Don't know watches           Yes          Medium
+                                                          Fakes
+
+9. Other collectibles        Lots of options             Same problem                 Yes          Medium
+   coins, shoes, etc.                                     Need to know what I'm buying
+
+10. Storage auctions         Could find valuable stuff   Lots of junk                 Yes          Medium
+                                                          Storage / hauling / selling
+
+He prints out the spreadsheet and looks it over again, adding a star next to three of the ideas.
+
+5 Buy/sell cars
+6 Flip a house
+7 Buy/sell sports cards
+
+Realizing doing the turtoring or buy /sell for small amount is alot of work.  So alot are either too much work or have a high risk.  Feels like I'm looking for the lazy person's low-risk money laundering.
+
+Thinks, Buying a used car kind of makes the most sense.  No real harm to try that once.
+
+He opens AutoTrader website and starts looking. Before long he finds a 2011 Toyota Camry LE with around 75,000 miles listed for $11,500.
+
+Well, maybe I should keep it under ten thousand. I'm not sure that matters, but it kind of makes sense.
+
+He keeps looking.  A 2010 Toyota Corolla LE. Around 82,000 miles. $9,700.
+
+He looks through the pictures and reads the listing again.  Even if I pay $9,700 and sell it for $9,000 and get a check, that's a big win.
+
+Losing $700 on a car and considering it a win would have sounded completely insane a few months ago. Now it somehow makes perfect sense.
+
+He scrolls back to the top of the listing.  
+
+Then he just stares at the phone number, trying to decide if he's actually going to call. Oh shit it 11pm, I cant call now and i need to sleep.  
+
+Hardly sleeps at all, excited and nervous about the car idea.
+
+wakes up and wants to do some calculations on the money and how to turn this into usably assets.  Say deposit around $4,000 a month between the 2 bank accounts, thats 48k a year,   is that too much, i mean in a few months i already deposited look his other spreadsheet, 26k total.  so maybe this pace is ok,  I can slow down when i feel it is needed.  So that is 480k over the 10 years
+
+But the car say it works i make say around 9k, maybe i can do 2 a year,  that is 18k.
+
+And maybe he spends 10k a month, well we got the bill pay stuff too, lets make it 15k.
+
+I want to look at the 10 year picture
+
+48k in deposits for 10 years, that is 480k    wait i'm going to deposit 1k a week around for 10 year straight and that will go unnoticed, "shit!" 
+
+anyways lets get a 10 year number
+
+2 cars a year 18k, and 180k for 10 years
+
+and the 15k a month on cash expenses and bills , that is 180k over a year, so 1.8 million for the 10 years
+
+490k + 180k + 1.8 million,  wait this adds up to $2,470,000, so that is a whole bag in 10 years, so 20 years for both bags
+
+For some reason i was thinking this was gong to take 50 years.  Maybe i do not need to do the car thing. 
+
+Does another calculation. What if I only deposit $24,000 a year and forget the whole car-selling thing?
+
+$24,000 a year for ten years is $240,000.
+
+Then $15,000 a month in cash expenses and bills is $1.8 million over ten years.
+
+$2,040,000.
+
+"Wait. That's still over two million dollars in ten years."
+
+He looks at the number for a second.
+
+"Maybe I'm making this way more complicated than it needs to be."
+
+But how accurate is that $15,000-a-month number? Some months it might actually be hard to spend that much.
+
+He tries another calculation.
+
+$10,000 a month in cash spending. $2,000 a month in deposits. $12,000 a month total.
+
+He does the math.  "About thirty-three years. Damn."
+
+He'd only be in his mid-sixties by then.
+
+And he wouldn't even need to wait that long to retire. The more of the cash he used for everyday life, the more of his regular paycheck he could leave sitting in the bank.
+
+So maybe he doesn't need some brilliant solution after all. Maybe he just needs time.
+
+He looks back at the AutoTrader page, still open from last night.
+
+The Corolla is still there.  But I'm definitely trying this once.
+
+Later that afternoon at work, he calls about the Corolla. It's still available. He asks if the price is negotiable. The owner hesitates, then says maybe.
+
+They agree to meet after work.
+
+Brian quickly goes home first and grabs 95 $100 bills.
+
+The Corolla looks about like it did in the pictures. He drives it around for a few minutes. Nothing obviously wrong with it.
+
+"I'll give you $9,200."
+
+The owner thinks about it for a moment, then agrees.
+
+Brian starts counting out the money before realizing there is probably more to this than just handing a guy 92 $100 bills and driving away.
+
+The owner has the title with him. They fill it out, do a bill of sale, and count the cash together. The owner hands Brian the signed title and the keys and seems pretty happy with the deal.
+
+A few minutes later, Brian is standing beside the Corolla watching him leave.
+
+Then he looks across the parking lot at his 4Runner.
+
+*Oh, shit.*
+
+He has two cars.
+
+*How the hell am I getting both of these home?*
+
+He can't exactly call somebody and say, *Hey, can you bring somebody else with you? I bought another car. Don't ask why.*
+
+His townhouse is only about eight miles away.
+
+He looks at the Corolla, then the 4Runner.
+
+*I guess I'm biking.*
+
+The bike fits easily in the 4Runner. Probably not so easily in the Corolla. So he drives the Corolla home first, gets his bike, rides the eight miles back to the parking lot, loads the bike into the 4Runner, and drives home.
+
+By the time he gets there, he's tired, sweaty, and the owner of two Toyotas.
+
+*Well. Step one worked.*
+
+Brian gets home and looks at the title and bill of sale.  
+
+Is that all I need?  He goes to Google.    
+
+Nope.   Apparently he needs another form, proof of insurance, and then has to go to the county tax office to actually transfer the title and registration into his name. And of course there are taxes and fees.
+
+Shit. I probably should have Googled this before I bought the car.
+
+At least he has thirty days to get it done.
+
+He looks out the window at the Corolla sitting next to the 4Runner.
+
+This idea is already more work than I thought.
+ 
+Over the next two days he gets it all done. He calls the insurance company and adds the Corolla, gets proof of insurance emailed to him, then goes to the tax office and gets it transferred into his name.
+
+Another $675 in taxes and fees. At least he was able to use cash.
+
+The title will be mailed to him in a few weeks.
+
+“I hate this process!"
+
+He decides to wait until he gets the title to actually list the Corolla for sale.
+
+”ahhh!!!”   
+
+Then remembers he will climb tomorrow night and he can do another deposit as it has been over a week. $1200 sounds good.
+
+On way to the climbing gym thinks 30 years of this is not so bad especially when my bank account grows to a comfortable amount.  Does his deposit and climbs for over 2 hours.  No Mei , thinks well i should of asked when she would be back.
+
+Gets home and see news that a hurricane is forming in the Gulf, thinks it will probably be another “Rita” everyone scared and leaving Houston then nothing happens.
+
+Safe 1:                 $2,326,600
+Primary Acct Deposits:     $16,300
+New Acct Deposits:         $15,400
+Safe 2:                 $2,400,000
+Corolla                     $9,875
+
+
+######### Chapter 8 #########
+
+Looking at the tally, Brian realizes he hasn't even used $100,000 from Bag 1 in almost five months.
+
+“This is slow.”
+
+Why couldn't he be into watches or something? Yeah, because he couldn't care less about watches. He didn't even want to wear one. His phone has the time and goes everywhere he goes anyway.
+
+But maybe that didn't matter. What if he bought a $5k watch with cash and sold it? Could he get a check for it?
+
+Wasn't that basically the money-laundering thing again? Or was it staggering? No. Structuring. That was it.
+
+Then he thinks about eBay.
+
+Shipping stuff wouldn't be so bad. At least he wouldn't have to schedule times to meet strangers like he would selling cars.
+
+*Wait.*
+
+Buy something with cash. Sell it on eBay. Get paid through PayPal.
+
+Shipping stuff he could handle.
+
+Hey, eBay sounds good. Not sure why that didn't come up when I made the list I spent two days on. Instead I already went and bought a Corolla, and now I can barely fit the 4Runner in the driveway.
+
+Anyway, what could he sell on eBay? Selling and shipping expensive watches didn't really sound like something he wanted to do.
+
+Maybe video games. Consoles or just games.
+
+Maybe laptops. Buy an $800 laptop in cash, plus tax, then sell it unopened for $750.
+
+Then he thinks about the spreadsheet.
+
+*And what about taxes?*
+
+Damn. More research.
+
+Then finds out that PayPal payments could generate a 1099 K or something; some kind of federal third-party-network limit.  Well that is over 20k or 200 transaction it seems.   
+
+“Screw it. I'm buying a couple laptops or something”
+
+At work the next day, he does some more research. On the Best Buy website he finds a $999 laptop on sale for $950.
+
+“Okay. Buy it for $950 and sell it for $950. I'm not really trying to make a profit. I just want non-cash.”
+
+Wait. He'll pay sales tax. And shipping.
+
+And is this laptop even in enough demand to sell? Is $950 actually a good deal, or is this one of those things that's always marked down?
+
+He finds the same laptop elsewhere online at full price and sees them listed on eBay around the same price.
+
+“Okay. This seems like a good test.”
+
+After work, he swings by the house and takes $4k out of the safe. Then he goes to Best Buy and buys three of the laptops. No problems.
+
+When he gets home, he annoyingly parks the 4Runner at the end of the driveway behind the Corolla.
+
+Inside, he takes pictures of one of the laptops and gets the description from the Best Buy website. After reactivating his old eBay account, he lists one for $975 Buy It Now.
+
+He keeps checking. No hits yet.
+
+He starts thinking about that spreadsheet of ten ideas and opens it again. One keeps getting his attention.
+
+“Gambling.”
+
+Maybe he could take some cash to a casino. He knows there are a few about two hours away in Louisiana.
+
+He's kind of free this weekend. Well, he wants to climb with his friends Saturday morning. Maybe he could bring a change of clothes, shower at the gym, and drive there afterward.
+
+Then the questions start.
+
+How much should he bring? What should he play?
+
+He played online poker for a while, but no. That's too slow and too much thinking with people sitting around him, especially considering this is his found cash.
+
+Slots are kind of stupid, but maybe they make sense for his current purpose.  Blackjack? No.
+
+Video poker is kind of fun. He could just sit at the bar and play. “I like that idea.”
+
+Damn. If he's sitting at the bar, he'll probably want a couple drinks. Maybe he should stay the night at the casino hotel.
+
+“Can you pay cash for a hotel?”
+
+He can try. If not, that's fine too.
+
+He downloads a video poker app on his phone and plays for about an hour. He remembers the basics and plans to watch a basic strategy video while working tomorrow.
+
+Now he starts thinking about how much cash he should bring.
+
+Then his phone buzzes.
+
+Someone just clicked Buy It Now on the laptop.
+
+“Oh, they're in New Mexico.”
+
+He saves a screenshot of the address and plans to mail the laptop during his lunch break tomorrow.
+
+Then he goes right back to thinking about video poker and how much to bring.
+
+He settles on 8k for gambling. But he'll need spending money while he's there too.  “11k”  That's what he'll bring.
+
+He goes back to the video poker app for a while, then finally goes to sleep.
+
+The next day is busy at work, but he gets to the post office during his lunch break and barely makes it back before his afternoon meeting.
+
+He goes climbing after work. When he gets home, he watches some video poker strategy videos and plays for a while, then lists another laptop, basically just reposting the same listing.
+
+He'll check in the morning to see if he needs to mail another one.
+
+Actually, maybe he should wake up early. If mailing laptops is going to become his new lunch-break activity, he's going to need to start bringing lunch.
+
+Morning comes.
+
+Yep. It sold. Nevada this time.
+
+He gets the address ready and stops at the grocery store for a TV dinner to eat later. At lunch, he mails the laptop.
+
+He plans to make a deposit after work but realizes he forgot to take money out of the safe. He doesn't feel like driving all the way home first, then remembers the 2k he keeps hidden in the 4Runner.
+
+He'll use some of that and reload his backup car money later.
+
+He deposits $1,500 at his backup bank, then later puts 5k back in the 4Runner for his emergency cash.
+
+He doesn't list the third laptop yet. He wants to try the gambling experiment first. Besides, he has bills to pay and needs to make the 4Runner payment.
+
+Friday at lunch, he pays the bills and makes the $548 car payment plus another $400.
+
+Saturday morning comes. He gets the 11k together and packs a bag for the night.
+
+He climbs with a big group that morning and climbs surprisingly hard and well considering the gambling trip has been sitting in the back of his mind all week.
+
+Still no Mei.
+
+Afterward, he showers at the gym, changes clothes, gets into the 4Runner and heads toward Louisiana.
+
+A few hours later, he pulls into the Coushatta casino in Kinder.
+
+At the hotel front desk he ask for a room, wait what the hell i have never just showed up to a hotel and asked for a room, i have always booked online ahead of time.
+
+Anyways they have a room, I ask can i pay cash, front desk says “yes at the end, but we need a credit card on file”   he says “sure”
+
+Thinks well that makes sense so hotel stays can work!
+
+Eyes the bar, walks that way see the video poker machines.  Thinks how much to bet, what is my plan.  He has only thought about strategy and that he will bet an amount higher than he usually would be comfortable with.  At one point thought play until you triple your money or use all the 8k
+
+ok quarter machine, 1 dollar machine and 5 dollar machine,  oh but you should do the max of 5 for the better payouts.  Decides to do $1 machine so 1$ x 5   $5 perhand.   Puts 3 $100 bills into the machine.
+
+Bartender ask if he would like a drink, decides to stick to just beer, orders a miller lite and a water.  And slides over a bowl of Pretzels, oh cool, i can probably order some food to,   but later.
+
+Plays first hand, nope down $5, and again over and over down $65, then the beer comes.  next hand is a full house +$45 then a flush next +$30.  “yay! I’m up $10, haha”
+
+This continues for a while, amount goes down and down.  Then few good hards and gets back to around even.  Orders another beer and a Cheese burger.   Then hits a 4 of a kind, + $125!
+
+He is not sure this is helping him with his 4+ millon in cash problem, but damn this is fun,  kind of like gambling with free money.
+
+He is around +$100 and a little buzzed and says “Fuck it!” a little louder than he wanted.  And cashes out the machine and goes to the $5 machine.  Puts 6 $100 bills in.
+
+get a full house and a 3 of a kind but that is it, within 20 minues the $600 is down to $80.  So orders another beer.
+
+Takes a break and finishes the cheese burger.  Beer comes and he ask drinks are free right?  bartender says yes!   he ask what about the burger, bartender say “well now that you on the $5 machine yes!”  
+
+Brian says “great, a $500 cheese burger!”  bartender says nothing and walks away
+
+He is wired and tired at the same time, he climbed today drove a few hours and played a few hours of video poker and it is only 6 pm.  
+
+He need to set some rules, thinks ok no later that 1 am then i need to go to the room.  Or triple my money is what i thought earlier, so $24k not even sure if math is good anymore.  Lets call it $30k or 1am that is when i stop,  Wait hah 30k is 3 stacks of high society, thinking back to the movie Rounder  “Fucking love that movie”    Well “Zero” that is an option also kind of like the start of Rounders!
+
+Takes out 15 $100 bills feeds into the machine.  $1580 “lets go!!”
+
+in 40 minutes down to 3$00 then bells ring hits straight flush + $1200, back to $1500.  That’s awesome!, then notices that a royal flush pay $20k. 
+
+The next hour is up and down but really mostly down,  at $60, pulls out 20 $100 puts it in $2k, thinks need to remember to keep money to pay for room.
+
+Scans the menu order a beer and some chips and salsa.  oh ask if they have queso?  they do, so he gets that too.
+
+finishes the chips and play with the 2k for 2 hours no real highs or lows just staying around break even.
+
+Then around 10:15 Bam! he hits the $20k Royal flush,  it makes all kind of noises, did not lie that part.  
+
+Almost immediately, an attendant comes over and asks Brian to leave the machine as it is while they verify the jackpot. Then they ask to see his ID and Social Security number for the tax paperwork.
+
+Brian asks, “Can I get the winnings as a check? I don’t want to walk around with all that cash.”
+
+He says yes. Brian is more excited by this than the royal flush. *Haha, take that, Mike McD,* thinking of Mike McDermott from *Rounders*.
+
+Brian asks again, “So I can get a check for the 20k and the $600 left in the machine?”
+
+“Yes, we can do the whole amount.”
+
+Brian leaves a $200 tip using the money in his pocket, making it $400 for the bartender. He’s not really sure what the right amount is after winning 20k. Then he walks to the cashier to get his check.
+
+While in line, he notices a midnight poker tournament. $250 entry fee.
+
+After the cashier gives him the check, he asks about the poker tournament.
+
+“Head down those stairs to the poker room,” she says, pointing across the casino.
+
+Brian gets to the booth and pays the entry fee. Then he sits at the bar to wait for the tournament. He decides to order another beer.
+
+*I will probably regret this in the morning.*
+
+Sipping his beer, he hears them announce that the tournament is starting. It’s a two-table tournament with maybe 15 players.
+
+1st place is $2k, 2nd is $1k, 3rd is $500.
+
+First hand: six of diamonds, nine of clubs. Brian folds.
+
+Three players go all in.
+
+*What the hell is going on?*
+
+Bam. Two players are out on the first hand.
+
+*I’ll just play conservative.*
+
+Then he gets king-queen of clubs. He raises, and two players call. Two queens come on the board. Brian has three of a kind, and the board is rainbow. He raises the amount in the pot. One player folds, the other calls.
+
+The next card is a nine. Brian still has three of a kind.
+
+*It’s almost better to either win this tournament or just be out early.*
+
+He goes all in. The other player folds.
+
+A few hands later, Brian gets pocket aces. The player to his left raises. Brian takes his win-or-leave-early mentality and goes all in. The other player calls and flips over pocket kings.
+
+Brian is ahead.
+
+Then the flop comes.
+
+*Damn. A king.*
+
+No ace on the turn or river. Brian is out in ninth place. They shake hands and Brian walks away.
+
+*I’m going to sleep.*
+
+He gets to the hotel room and lies down on the bed, but shit, the room is spinning. He tries to fight it off, but he can’t. He goes to the toilet and just needs to make himself throw up. He hasn’t drunk this much in a while.
+
+He pukes a couple of times, brushes his teeth, drinks some water, then heads back to bed. The room is only spinning a little now, and soon he’s able to fall asleep.
+
+Safe 1:                 $2,310,600
+Primary Acct Deposits:     $16,300
+New Acct Deposits:         $15,400
+Safe 2:                 $2,400,000
+Corolla:                    $9,875
+PayPal:                     $1,950
+Casino Check:              $20,600
+
+
+######### Chapter 9 #########
+
+Brian wakes up, head pounding, mouth dry. He drinks both bottles of water from the hotel room and starts the coffee pot. He calls the front desk. “Is there a breakfast buffet?” They say yes, just off the casino. *Of course they want you to have to walk through the casino.*
+
+Brian is just going to get breakfast and go home.
+
+A few hours later, Brian arrives home and is immediately annoyed by the Corolla sitting in the driveway. He parks at the back of the driveway.
+
+He walks inside and notices a broken window near the back of the house.
+
+Immediately he thinks someone has finally come looking for their money.
+
+He checks the living room and still sees the remaining laptop box there. So it wasn't a robbery.
+
+Then he cautiously walks into the bedroom and into the closet. Both safes are still there, untouched.
+
+“Really, nothing looks touched at all.”
+
+He looks around and sees a softball right under the couch.
+
+“Oh shit! Some kids must have hit it through the window.”
+
+He sits down on the couch. Man, he has a lot to do, and he really wants to go back to the casino next weekend too.
+
+He makes a to-do list:
+
+Sell laptop  
+Fix window  
+Get Corolla title  
+List Corolla  
+Deposit to primary  
+Deposit casino check
+
+He thinks again about the fear that someone had found the money and come looking for it. He wants to get at least some of the money into a safe-deposit box.
+
+He adds:  Move some cash to safe-deposit box
+
+He turns on the TV. It seems the hurricane will come next Monday. “Well, at least that works for my casino trip next weekend. I should be back Sunday.”
+
+That night he measures the window glass so he can replace it and lists the other laptop. It sells almost immediately, to someone in Ohio. He notes the address and plans to do the lunch thing again.
+
+The next morning, he makes his grocery store run so he'll have something to eat while shipping the laptop at lunch.
+
+Then after work, on the way to climb, he deposits $1,600 into his primary account. On the way home, he picks up the replacement window pane.
+
+He gets home. Same annoying Corolla.
+
+He's too tired to fix the window or do anything else, so he goes to bed early.
+
+He reviews his to-do list and crosses off two things:
+
+ x Sell laptop
+Fix window  
+Get Corolla title  
+List Corolla  
+ x Deposit to primary 
+Deposit casino check  
+Move some cash to safe-deposit box
+
+He decides tonight he'll just deposit the casino check into the new account and go for a walk.
+
+The check deposit goes smoothly.   “This is all working out.”
+
+Then another thought.   “Is the IRS or the feds or whatever noticing all these deposits? And now a casino check?”
+
+Paranoid again. But maybe a little paranoia is good.  
+
+Get home and sees the Corolla title in the mail.  
+
+ok, well at least i can list the Corolla now.  I could also put a for sale sign in it and my phone number.
+
+Or CarMax. Do they give checks?
+
+He searches online. CarMax says they usually pay with a bank draft.   “So what is that?”
+
+He looks it up. Basically a check.   “Perfect!”
+
+The next day after work, Brian takes the Corolla to CarMax. They offer him $8,900. He'll lose a few hundred on the car, plus all the taxes and fees.
+
+*Oh well. a $9k check is better that $10k of duffel bag money*   
+
+He says yes. He spends about an hour there and walks out with his bank draft.
+
+“Looks like a check to me.”
+
+He orders an Uber to get home since he no longer has the Corolla. He grew to hate that Corolla, but he smiles as he looks at his Corolla check.
+
+Later that night, he looks at the check again.  “So where do I deposit this money? Primary? Maybe not. New account? But I just put my casino check there.”
+
+“Or maybe another bank account.”
+
+There's that credit union near the parking lot where he found the money.   “Is that a good idea?”
+
+He does some research on the difference between a traditional big bank and a credit union. He's looked this up before but can't remember.
+
+Nonprofit, fewer ATMs, lower fees, blah, blah, blah.   “Yes, I'm doing that.”
+
+The next day after work, Brian stops at the credit union. He opens an account and uses the $8,900 bank draft from the Corolla for his opening deposit.
+
+Walking out, he thinks about how much easier that was than the entire process of buying the damn car.
+
+Almost 9k in the bank. I'll take it.
+
+Now i have a 3rd account to deposit to, not sure if that is good or bad.    “Good, lets good with good”
+
+When he gets home, he looks over at the window, grabs some gloves from the garage, and pulls out the remaining broken pieces.
+
+He's able to pull the trim back enough to fit the new piece of glass into place. It seems to fit, but he grabs a piece of tape to hold it, just to make sure for a few days.
+
+He thinks about the upcoming hurricane and adds a couple more pieces of tape, just in case.
+
+He updates his to-do list:
+
+ x Sell laptop
+ x Fix window  
+ x Get Corolla title  
+ x List Corolla     -  sold   and in new account
+ x Deposit to primary 
+ x Deposit casino check  
+Move some cash to safe-deposit box
+
+So, only the safe-deposit box left.
+
+Brian throws away the to-do list and decides he'll deal with that after the weekend gambling trip and the hurricane.
+
+“Oh, and the gambling trip. No puking this time. Hopefully.”
+
+He watches the news about Hurricane Harvey. They say it won't hit Houston directly at first, but Houston could get a lot of rain and wind afterward.
+
+*Oh, screw it. They're always a little off on these things, and that's not until Sunday.*
+
+“I'm going for it.”
+
+Then he thinks about it again. “Shit. What if they're wrong and it goes toward Louisiana? Rita was supposed to hit Houston and ended up going toward Louisiana instead.”
+
+But that's not until Sunday. The climbing gym might close for the weekend anyway, just in case.
+
+“I could leave work early Friday and go to a casino in Shreveport. It's farther north.”
+
+Friday comes and Brian gets ready for the trip. He might even stay two nights this time.  He pulls another 18k out of the safe.  And heads to work.  Eyeing the newly replaced window pane.  “if will be fine”
+
+After work, Brian starts the three-hour drive to Shreveport. On the way, he passes through Nacogdoches, his old college town.  
+
+“Man, it's been a while.”
+
+For a second he thinks about stopping, but keeps driving. He's got a casino to get to.
+
+“Maybe I'll hit my favorite burger place on the way back. Butcher Brothers. So good.”
+
+Brian arrives at the Eldorado Resort Casino in Shreveport. He goes to the front desk and realizes, once again, that he didn't reserve a room in advance.
+
+They only have suites left.
+
+“How much?”
+
+“$349 a night.”
+
+Brian pauses.
+
+A few months ago that would have annoyed him enough to leave.
+
+“Fine. I'll take it. Two nights.”
+
+“We'll need a credit card on file.”
+
+“Okay. Can I pay cash when I leave?”
+
+“Yes, that's fine.”
+
+*Perfect!*
+
+Brian decides to go to the room first and lie down for a bit. He sets an alarm for an hour and falls asleep.
+
+When the alarm goes off, he wakes up from the nap.
+
+*Not sure that helped anything.*
+
+“Anyway, let's go to the bar!”
+
+Brian eyes the $5 video poker machine, takes out fifteen $100 bills, and starts feeding them in.
+
+He gets a couple of three of a kinds and some two pairs, but nothing that pays much. After 45 minutes, he's down to $225.
+
+“Well, that's not a good start.”
+
+He orders a beer and a club sandwich, thinking maybe his luck will change after ordering food like it did last time.
+
+Nope.
+
+Soon he's down to $20. He can't even play a full hand now.
+
+He feeds another four $100 bills into the machine and waits. His beer arrives, followed soon after by the sandwich.
+
+He eats and keeps playing. Soon the $400 is gone too.
+
+Down $1,900, and he's been here less than two hours.
+
+He finds a $20 in his pocket and leaves it as a tip.
+
+“Let's try somewhere else.”
+
+Brian gets up and wanders off to another part of the casino.
+
+He walks near the poker room but decides not to go in. He does a loop around the casino floor, then sees a smaller bar with video poker and decides to try those machines. He puts in ten $100 bills and orders a beer.
+
+He notices the news about the hurricane. Well, it's coming in on the other side of Houston, away from Louisiana, so it seems like he should be safe. But they're saying it could loop back toward Houston and bring a lot of rain.
+
+That will be Sunday, when he's supposed to be driving back.
+
+*We'll see. Maybe I'll need to stay another night.*
+
+Anyway, the $1,000 is almost gone in 45 minutes. He thinks that if he needs to stay another night, he might want to slow down since he only brought $18,000.
+
+“Haha. Only 18,000 dollars. What the hell am I saying?”
+
+He cashes out the remaining $150 and moves over to the $1 machines, where it'll be $5 per hand instead of $25.
+
+He puts in the $150 plus another $100 and doubles it to around $500 fairly quickly.
+
+Then he plays around break-even for the next two hours, following the hurricane news. It's still tracking the same.
+
+He cashes out $400 and calls it a night.
+
+He makes it back to the hotel room, lies down on the bed, and watches more hurricane coverage. It's a big storm, but it's still on the same path.
+
+“Hey, I think I'm safe on the no-puking rule tonight.”
+
+He counts the money he has left. Around 15k of the 18k.
+
+*So I'm down about 3k.*
+
+It still feels like free money until it's in his bank account. Well, one of his many bank accounts.
+
+Tomorrow he's going back to the $5 machines. If he loses another 10k, maybe he'll just drive home early.
+
+The next morning Brian wakes up feeling surprisingly good. No headache, no spinning room.
+
+He makes some coffee and turns on the TV.
+
+Hurricane Harvey is still all over the news. It's expected to hit southwest of Houston late that night, so basically the opposite direction from where Brian is now.
+
+He heads back to the $5 video poker machines.  “Fuck it.”  He feeds 8k into the machine.
+
+The bartender comes by.    “You guys have any breakfast?”
+
+“We have breakfast sandwiches.”
+
+“Oh, perfect. Can I get bacon, egg and cheese on a bagel?”
+
+“Sure. Comes with hash browns.”
+
+“Even better. And a coffee.” Brian pauses. “Actually, orange juice too.”
+
+“Anything else?”
+
+Brian looks at the 8k sitting in the machine.    “Good for now. Thanks!”
+
+He plays for the next four hours. The 8k slowly drops to 2k, with some wins but a lot of nothing.
+
+He keeps watching the hurricane coverage. Harvey is still expected to make landfall later that night and is still staying clear of Houston.
+
+Then he thinks about his mom. She lives on Lake Houston, on the complete opposite side of the city from where the hurricane is coming in. Still, she's right near the lake.
+
+He decides to call her.
+
+She tells him she has a bag packed just in case and can go to her cousin's nearby since they're on higher ground if needed. She's more worried about losing electricity than the wind or rain.
+
+Brian feels a little better after talking to her.
+
+He gets back to video poker, but soon he's down to 1k.
+
+*I'm sick of this.*
+
+He lost 3k Friday and now 7k today. That's 10k.
+
+*I lost 10k. Damn.*
+
+But somehow it still doesn't feel like real money. It's just safe money.
+
+He cashes out the remaining 1k.
+
+Walking through the casino, he sees a roulette table. A number pays 35 to 1. Bet $100, win $3,500.
+
+He thinks about a strategy. Keep betting $100 on the same number until it hits and you're up. It should eventually happen. But it would have to hit pretty quickly, or maybe twice close together.
+
+*Does that even make sense?*
+
+“Hey, let's do $100.”
+
+What number?
+
+2.4 million. Then 4.8 million.
+
+24.
+
+*Maybe that's my lucky number.*
+
+He puts $100 on 24. Loses. Does it again. Loses. Again. Nope.  One more time.   Nothing.   “Well, there goes another $400.”
+
+He walks away from the table.  “I want to go home!”
+
+He goes back to the room to check on Harvey. About five hours until landfall, and it's still coming in on the other side of Houston.    “Should be good.”
+
+He packs his stuff and checks out. They charge him a late checkout fee, but don't charge him for the second night.  
+
+Maybe they realized how much I lost gambling.  Hands over cash and gets a receipt.
+
+He does the math in his head.  “Around 11k.”  Damn.   
+
+Gets in the 4-runner for the drive home.   During drive home he thinks about the scheme he has come up with
+
+Buy a safe.
+Buy another safe.
+Remodel my Garage
+Open bank accounts.
+Buy a Corolla. then hate it
+Sell the Corolla.
+Sell three laptops.
+Play video poker.
+Lose 11k.
+Fix a broken window.
+
+These crazy ideas aren't working. Then he thinks about it again.  “They kind of are.”
+
+He got more than 20k into the bank from the casino. Almost 9k from the Corolla. He's been making regular deposits. He has money in PayPal. He's barely using his paycheck for bills anymore.
+
+None of it feels like much compared to 4.8 million. But it is working.
+
+The drive home feels a little eerie. Light wind, light rain. Must be the outer part of Harvey.
+
+When he gets home, he pulls the 4Runner all the way into the driveway.   “Yay! No Corolla.”
+
+He feels the stack of bills in his pocket. Around 6k left. He takes out 5k and decides to just leave it in the glove box, then stuffs the other 1k into his pocket.
+
+He laughs. *Eventually I'm just going to have stacks of cash stuffed all over the place.*
+
+He gets inside, puts his stuff down, and checks the replacement window pane. Still good.
+
+He puts on the news and watches the hurricane coverage nonstop. Harvey has made landfall and is heading toward San Antonio and Austin.
+
+They're still saying it could swing back toward Houston.  A little while later, he falls asleep on the couch.
+
+Safe 1:                 $2,292,600
+Primary Acct Deposits:     $17,900
+New Acct:                  $36,000
+Credit Union:               $8,900
+PayPal:                     $2,925
+Safe 2:                 $2,400,000
+
+######### Chapter 10 #########
+
+He wakes up the next morning and turns on the news. Harvey is completely on land now, the eye still southeast of Houston.
+
+He does a quick update on his money spreadsheet and realizes he's finally taken more than 100k out of the first duffel bag.
+
+“Wow!”   That actually feels like an accomplishment.
+
+Sure, 10k of it is sitting in his 4Runner, but he's not putting that money back in the safe. As far as he's concerned, once it comes out, it's out.
+
+Then he notices the 36k sitting in his new account.
+
+The gambling and all those little deposits have actually paid off. Conveniently forgetting that he just lost 11k.
+
+He starts thinking about the safe-deposit boxes. He still needs to do that.
+
+He'll need some kind of box to transport the money too. Three separate trips sounds good. That would be 800k each. Maybe a shoebox-sized box would work.
+
+*I'll figure out the sizes later.*
+
+What else?
+
+Investments. He should probably invest some of this in stocks or mutual funds. He doesn't really know much about investing. Just the basic research he did when picking funds for his 401k.
+
+eBay. That actually worked pretty well and wasn't too difficult. There's the 200 transaction, 20k thing, but he's nowhere near that yet. Maybe more laptops. Game consoles. Something else.
+
+Gambling?   “Maybe not.”
+He kind of likes his normal life. Going to work, climbing, walking, bike rides. But gambling could still be something he does when he wants to get away. Sitting in a casino really does take him out of normal reality for a while.
+
+He starts getting excited.  It's to-do list time.  “Haha. What a nerd.”
+
+**TO-DO**
+
+  Find a money box  
+  Get safe-deposit boxes  
+  Investment account  
+  eBay
+
+Looking at a pile of shoe boxes, he sees the box from a pair of Vans high-tops he barely ever wore.     “That might work.”
+
+He opens the safe, counts out ten 10k stacks, and puts them in the Vans box. They fit really well. He's not sure if eight more of those will fit, though.
+
+He gets three more 100k stacks ready and puts them in.
+
+“Okay, it seems about half full. This can work!”
+
+He does the other four. It all fits. He has to spread the last 100k along the side, but he gets it all in.
+
+He tries to pick up the box so he can add some tape.
+
+“Damn.”   It's kind of heavy and not very easy to grip. Maybe 20 pounds.
+
+He lifts it by one of the cutouts on the side, then realizes he can see the money through it. He turns those stacks inward, takes the box to the kitchen, tapes the flaps down, then tapes the bottom shut.
+
+Well, it kind of works. A handle would be nice.
+
+He goes to the garage and gets the duct tape. He wraps a strip loosely around the top of the box, then adds another layer under the loose section to make a handle.
+
+He picks it up.  “That is great.”
+
+Then he looks at it again.    *But can I really just walk into a bank carrying this?*
+
+“Oh, I can just put it in my backpack.”
+
+That'll work. But eventually he'll need two more boxes.
+
+“Well, let's do one first next week. Assuming Harvey doesn't flood us like they keep saying.”
+
+Even though it's still hardly raining outside.
+
+He puts the Vans box back into the safe and closes the door.
+
+He looks at his to-do list again.
+
+**Find a money box.**
+
+Guess he can't cross that off yet. He still needs two more boxes. And he can't go to the bank now anyway. It's Sunday morning.
+
+Sees  - Investment account   and  - Ebay   cant do Ebay now.   
+
+Investment account. He can research that.
+
+He gets his laptop out, but he keeps looking up at the TV.
+
+Before long, he's barely looking at the laptop at all. He's completely hooked on the hurricane coverage.
+
+He quickly checks his work email. The office will be closed Monday because of Harvey. Work from home.
+
+He stays up a little later than usual watching the coverage. It's raining harder now, no longer a drizzle, but nothing too bad.
+
+Eventually he falls asleep.
+
+Around 4:00 in the morning, the wind and rain wake him up. It's coming down incredibly hard. It lasts about thirty minutes, then suddenly lets up.
+
+He falls back asleep.
+
+Around 5:30, it happens again. Heavy rain for another thirty minutes or so, then it eases up.
+
+That becomes the pattern for most of the day. Heavy rain, then a break. Heavy rain, then another break.
+
+By 2:00 in the afternoon, he still has electricity. Hopefully the worst of it is over.
+
+Oh, Mom.
+
+He calls her. She left for her cousin's house early that morning. She's worried about her house flooding, but she's safe. They don't have electricity, but it's more country out there and they're kind of prepared for that stuff. They have a generator.
+
+Brian feels better.
+
+The rain starts slowing down.
+
+By that evening, it seems like it's mostly over.
+
+*Wow. I could've been stuck at that casino and not even able to get home if I'd stayed that extra night.*
+
+He's getting kind of bored, so he starts looking around for another shoe box about the same size as the Vans box. He finds a Nike box and wants to compare them.
+
+He takes it to the closet and opens the safe.  “Shit.”
+
+The floor under the safe is wet.  “Is that a leak?”
+
+He looks up. It seems to be coming from somewhere above. Not a huge leak, just a slow one.
+
+Is this new? Has it been leaking for a while?   He thinks about mold and almost hopes it's new.
+
+He gets some towels and mops up what he can, then brings in a fan from the garage to try to keep everything dry.
+
+*Okay, I need to get this fixed.*
+
+Then he looks at the safes.    “But my safes?”
+
+He doesn't want anyone going through that closet.
+
+This sucks. These are the kinds of to-do items that aren't fun. Figuring out how to get money into his accounts is fun. Having someone fix a leak is not.
+
+He adds it to the list anyway.      - Fix leak.
+
+First thing in the morning, he decides to go to Target and look for fans. Whatever he can find. He avoids Home Depot. People are probably looking for generators and all kinds of other stuff there.
+
+He gets in the 4Runner and drives toward the entrance to the neighborhood.
+
+Nope.   The road is completely flooded where it leads toward the bayou. He's not going anywhere.
+
+He turns around and goes back home.  *I need to call Mom.*
+
+She's fine. She talked to some of her neighbors and thinks her house has flooded, but she's not leaving her cousin's today.
+
+Brian checks the refrigerator and pantry. He has enough food.
+
+He checks his work email.
+
+Work is closed for everyone except on-call employees.
+
+He watches the news. It's bad. Flooding all over the city.
+
+He's not really sure what to do now.
+
+He decides to walk around the neighborhood. As he walks, he thinks about his to-do list. Money boxes. Investments. eBay.
+
+Then he remembers the safes.
+
+*Oh damn. I need to do something with those.*
+
+One safe sitting in a closet is fine. Two safes just looks suspicious. And they're so damn heavy, even empty.
+
+Maybe he should see how much he can fit into one safe.
+
+Or do the boxes first.
+
+He finds the Nike box he was looking at earlier and tries another 800k. It isn't as organized as the Vans high-top box, but it all fits.
+
+“Yay. Two 800k boxes.”
+
+He skips the duct-tape handle this time. He'll just carry it in a backpack.
+
+The Nike box fits inside Safe 1. The Vans box doesn't.
+
+He closes Safe 1.
+
+That leaves another 800k. He finds two dress-shoe boxes and puts 400k in each.
+
+“That's the best I have. It'll work.”
+
+He slides the Vans box and the two dress-shoe boxes under his bed.   There.  2.4 million dollars in shoe boxes.
+
+Looks at his todo list and adds move 2nd safe
+
+**TO-DO**
+
+  x Find a money box  
+  Get safe-deposit boxes  
+  Investment account  
+  eBay
+  move 2nd safe
+
+“I guess nothing is stopping me from researching investment accounts.”
+
+He can even set one up online and should be able to transfer money into it directly from his bank account. It's not like he's showing up somewhere with cash.
+
+What company?  Fidelity? E*TRADE?
+
+He'd heard his work 401k might be changing to Fidelity. He doesn't want to mix those two things.
+
+For some reason, E*TRADE just sounds like the right choice for this.   “E*TRADE it is.”
+
+He goes to the E*TRADE website and signs up for an individual brokerage account. After a couple hours of research, he finds a few mutual funds he likes and moves 25k from his new account into the E*TRADE account.
+
+That feels good. Another 25k of the money is actually doing something now.
+
+But there's still the leaking roof, a flooded city, and Mom stuck at her cousin's house.
+
+He texts Mom.    *Let me know how the house looks tomorrow.*
+
+Then he decides to come up with a plan for the second safe.
+
+He gathers two couch cushions and a bunch of blankets and piles them on the floor next to the stacked safes. He's just going to pull the top empty safe off and let it fall onto the soft pile.
+
+He pulls.   The safe comes crashing down. Brian jumps out of the way as it rolls toward the wall and scrapes the door frame.
+
+“Oh well.”   At least it's off.
+
+He grabs his handy cart from the garage and manages to get the safe onto it, then wheels it out to the garage.
+
+He puts it in the corner and leaves the door wide open.
+
+“See? Nothing in here. Go away.”
+
+Now the closet has a normal number of safes in it.  Well, and 1.2 million under the bed in shoe boxes.
+
+He updates his list.
+
+**TO-DO**
+
+x Find a money box  
+Get safe-deposit boxes  
+x Investment account  
+x eBay — later problem  
+x Move 2nd safe  
+Fix leak
+
+Before bed, he checks his work email. They're working from home for the rest of the week. Mostly the emails are just people checking in and making sure everyone is okay.
+
+The next morning, he checks the closet. The floor seems mostly dry now.
+
+He takes a walk to see if he can even get out of the neighborhood. The road is clear again. He walks a little farther and sees that some of the houses on the other side of the bayou flooded.
+
+*I got lucky.*
+
+Then he thinks about Mom.
+
+He'll wait a little longer for her to update him.
+
+He decides the roof leak can wait a week or so. Contractors probably have much bigger jobs to deal with right now anyway.
+
+Later, Mom calls.
+
+He nervously answers.
+
+“Yep. It flooded. At least four feet.”
+
+“Holy crap. So the water's all gone now?”
+
+“Yeah, but it was above the kitchen counters.”
+
+“Oh no.”
+
+He pauses.
+
+“Should I come up there and help?”
+
+“Not yet.”
+
+They talk again the next day and decide Brian will come up over the weekend to help with the cleanup.
+
+Friday, he'll finally try the safe-deposit box.
+
+When Friday comes, he decides to start with one of the smaller 400k shoe boxes. Just a test.
+
+He takes all his work stuff out of his backpack and puts the shoe box inside.
+
+Then he looks at the backpack.    *Who brings a backpack into a bank?*
+
+Then again, half the city just flooded. A backpack probably isn't that weird right now.
+
+Still...
+
+“Oh. I can just leave it in the car until I get the key and figure out how the whole thing works.”
+
+That seems considerably smarter. He puts the backpack in the 4Runner and heads to the bank.
+
+He goes to his second bank. He keeps having these thoughts about doing too much at the bank where his paycheck is deposited. Maybe he should even start making fewer deposits there.
+
+At the counter, he tells the teller, Deposits $1,200 and says “I'd like to get a safe-deposit box.”
+
+“What size?”
+
+“What are the choices?”
+
+“Small, medium, or large.”
+
+“Let's go with large. How much is that?”
+
+“$250 a year.”
+
+Brian nods.
+
+“Can I pay cash?”
+
+“Yes, but it'll still be tied to your account for future charges.”
+
+“Okay, sure.”
+
+Brian hands over the cash.
+
+A little while later, he's taken back to the safe-deposit area and shown his box. He looks inside.
+
+Yeah. The smaller 400k shoe box should fit easily. Maybe the Vans box too.
+
+Maybe.
+
+He's not really sure.
+
+He goes back out to the 4Runner, gets his backpack, and brings it inside. The 400k box fits with plenty of room.
+
+On the way out, he asks for the exact dimensions of the safe-deposit box.
+
+“About 10 by 10 by 22.”   Brian types **10 × 10 × 22** into his phone.
+
+Then he heads home to get his stuff together for the weekend helping Mom with the flood cleanup.
+
+On the drive, he starts thinking about the boxes again. Maybe he needs to divide the money into smaller boxes that fit better. Or just wrap the stacks into smaller blocks. Newspaper or something.
+
+“Yes! Newspaper! And they can all have the same amount.”
+
+Then he realizes what he's thinking about. He pictures those movies with stacks of drugs and money wrapped up in neat little packages.    *Damn. Now I feel like some kind of smuggler and money launderer.*
+
+“What the fuck?”
+
+Before grabbing his packed bag, he goes to the safe and takes out one of the dress-shoe boxes. He tears off the tape and takes out half the money.
+
+Get out 200k.  He stacks it all together and measures it.  About 9 inches tall, 6 inches long, and 3 inches wide.
+
+“Okay. So 200k is about 9 inches tall. 100k would be about four and a half.”
+
+He types that into his phone underneath the safe-deposit box dimensions.
+
+*Something to think about during flood cleanup.*   He grabs his packed bag and heads out.  But think swait i will try to give my mom some cash,  he grabs 10k from the safe .
+
+Safe 1:                 $3,482,600
+Primary Acct Deposits:     $17,900
+New Acct:                  $12,200
+Credit Union:               $8,900
+PayPal:                     $2,925
+E*TRADE:                   $25,000
+Under Bed:                $800,000
+Safe Deposit Box:         $400,000
+
+######### Chapter 11 #########
+
+He stops by his favorite barbecue place and picks up enough food for everyone.
+
+When he gets to his mom's cousin's house, he gives Mom a big hug. She seems surprisingly calm considering everything that's happened.
+
+“The house is a mess,” she says. “I'm not even sure we're going to be able to clean it up ourselves. We might have to hire somebody.”
+
+His mom has worked in the insurance industry for as long as Brian can remember. Because of that, she's always been almost ridiculously well insured—her house, her car, everything.
+
+So financially, she isn't all that worried.
+
+The problem is that her house is full of four feet of floodwater.
+
+After they eat, Brian is directed to a small nook off the hallway where they've set up an air mattress for him.
+
+“Great!”
+
+He puts his bags down, then takes 5k from the 10k he brought with him.
+
+He finds Mom in her room and holds out the money.
+
+“Here. I brought this to help with the house.”
+
+She looks at the cash. “Brian, I don't need that.”
+
+“Work's going well. I got a raise and a bonus recently.”    Not really. If anything, since finding the money he'd kind of lost focus at work.
+
+“Besides, when I got divorced, you gave me 5k. Remember?”
+ 
+“I was just happy you got away from her. She was crazy.”  Brian laughs.
+
+“Just take it. Please.”
+
+“I can't.”
+
+“Just for now. Who knows how long the insurance is going to take.”
+
+She looks at the money again.
+
+“You sure?”
+
+“Yeah. Take it.”
+
+She reluctantly agrees and takes the cash.
+
+They say good night.
+
+Before going to sleep, Brian has something even more fun than making a to-do list.   Calculating money storage.  “Ha!”
+
+He grabs a piece of paper and looks at the numbers he saved on his phone.
+
+10 × 10 × 22
+
+Then underneath:
+
+9 × 6 × 3
+
+No. That's 200k. He really wants to use 100k blocks.
+
+He writes underneath it:
+
+5 × 6 × 3
+
+Close enough.
+
+Okay. Ten inches tall. That's two stacks high.
+
+Ten inches wide divided by three. Three across.
+
+So that's six blocks, each about six inches long.
+
+The box is 22 inches long. Three rows should fit easily.
+
+Three rows of six.  18 blocks.  1.8 million.
+
+“That sounds perfect.”
+
+He thinks about the rest of the money. He started with 48 of these 100k blocks. Now it's more like 46 plus some change.
+
+Two safe-deposit boxes would hold 3.6 million.
+
+That would leave about a million. Plus change.
+
+Brian stops. He just referred to anything under 100k as *change*.  He laughs.
+
+He tries to sleep on the air mattress, but his mind keeps going back to wrapping and unwrapping the bills.
+
+After very little sleep, he hears people waking up, so he gets up too.
+
+They have some coffee and microwave breakfast sandwiches, then head over to Mom's house.
+
+The drive there is a mess. It's strange to think that the water came in for a few hours, destroyed everything, and then just disappeared.
+
+They pull into the driveway and go in through the kitchen.
+
+“Oh, wow.”
+
+The smell hits him immediately. Wet food and spices are scattered everywhere. Everything smells damp and rotten.
+
+In the living room, the couch and chairs are piled on top of each other, soaked and filthy.
+
+Brian just stands there looking around.
+
+
+Four feet of water doesn't sound quite the same when you're standing inside what it left behind.
+
+They start with some of the smaller chairs, carrying them out to the front of the house. Other neighbors are doing the same thing, dragging ruined furniture and piles of stuff toward the street.
+
+Brian talks to one of the neighbors for a minute. They have an entire church group helping them clean out the house.
+
+Brian looks back toward Mom's.
+
+There are four of them.
+
+Mom tells him the neighbor is especially worried because they canceled their flood insurance last year. They're going to have to do most of this themselves.
+
+“Wow.”
+
+They work for about two hours, carrying things outside and making piles that can be hauled away later.
+
+Eventually they sit down for a break.
+
+Mom looks around the house.
+
+“We can't do this.”
+
+Brian doesn't argue.
+
+She comes up with a new plan. For today, they'll just go through the house and find the things she wants to save. They can get those out and bring them back with them. On Monday, she'll start calling cleanup crews.
+
+“Yeah. Let's do that today and see.”
+
+They find some pictures Mom wants to save, along with clothes she thinks she can wash.    “I doubt it.”
+
+Brian looks around at everything else. Clothes, shoes, all the normal stuff that had been sitting in closets and drawers.
+
+*Wow. Clothes and shoes and all that. Who even thinks about that?*
+
+After another couple of hours, they call it a day and head back to his cousin's house.
+
+After a long shower, Brian sleeps well that night.
+
+The next morning, they go back to the house to see what else might still be usable. They find some things in the garage that survived, and Brian helps load everything up.
+
+After a while, Mom looks around.
+
+“There's really not much more we can do here. You should go home.”
+
+“You sure?”
+
+“Yeah. I'll start calling cleanup companies tomorrow.”
+
+Brian doesn't argue too much. There isn't much else he can do anyway.
+
+
+He says goodbye, gets in the 4Runner, and heads home.   *I guess I'll go wrap some little money blocks tonight.*
+
+When he gets home, he takes another shower to get the moldy flood smell off him and throws his clothes in the wash.
+
+Then he pulls out the box with 800k from under the bed and divides it into eight 100k stacks.
+
+He wants to deal with the safe-deposit box tomorrow, but he has to work.
+
+He checks his work email. They're still allowing people to work from home if needed, probably for anyone whose house flooded or who has other problems from the storm.
+
+Brian replies to his boss that he'll work from home Monday since he's been helping family with flood damage, then plans to come back into the office after that.
+
+He finds some old newspaper and wraps each of the eight 100k stacks. Then he puts all eight into his backpack.
+
+“Okay. Let's test this out tomorrow.”
+
+The next morning, Brian doesn't do shit for work.
+
+He's wrapping money.
+
+He already has the 800k from under the bed divided into eight bundles and sitting in his backpack. He starts working on the money from the safe.
+
+By late morning, he's wrapped another 26 bundles.
+
+He stops and does the math.
+
+34 bundles total, plus change.  He laughs again.  “Change.”
+
+There's also the 400k already sitting in the safe-deposit box in the dress-shoe box. 4 more bundles whenever he gets around to wrapping those.
+
+He starts loading the newly wrapped bundles back into the safe. After moving things around, he decides to put 2 more into the backpack.
+
+10 bundles in the backpack. 24 bundles back in the safe, along with the remaining cash.
+
+He looks at the clock.   Noon.   “Oh. Lunch time.”
+
+He picks up the backpack.  “Let's go exchange the shoe box for these ten.”
+
+He feels a little like Mike from *Breaking Bad*, loading up the safe-deposit boxes to keep the crew from talking.
+
+Well, except nobody else knows anything. *Hopefully.*  Wait. Doesn't Mike die in the end?
+
+
+The bank process goes smoothly. Brian takes out the shoe box, adds the 10 bundles, and puts the box back.
+
+He stuffs the shoe box into his backpack. *Man, I should've just brought all 18 and gotten this box over with.*
+
+When he gets home, he checks work. Nobody seems to be online.
+
+“Screw it. I'm going back.”
+
+He starts to grab the other eight bundles, then realizes he just left the bank.
+
+Maybe eat lunch first.
+
+While he's eating, he thinks about it. Eighteen bundles. One full box.
+
+He can wait until next week to deal with getting a second safe-deposit box.
+
+After lunch, he heads back to the bank.  This time he brings the other eight.
+
+A little while later, all 18 bundles are in the box.
+
+Work gets busy for the rest of the week. Several people on the team take time off because of the flooding or hurricane damage, so Brian actually has to pay attention to his job again.
+
+By Friday, things are starting to feel a little more normal.
+
+He's going to try to climb on Saturday.
+
+Before he goes to sleep, he decides to make a to-do list. It's been a while.
+
+Second safe-deposit box.
+
+Gambling? No.
+
+Buy and sell another car? Hell no.
+
+eBay?
+
+He writes:
+
+** To Do **
+  2nd safe-deposit box
+  eBay
+
+Brian looks at the list for a few seconds, then throws it away.  He'll just get the next safe-deposit box, make a deposit, and pay his bills.  Maybe eBay at another time.
+  
+** Inventory **
+Cash:
+  Safe:                   28 bundles + change
+  Safe Deposit Box:       18 bundles
+Accounts:
+  Primary Acct Deposits:     $17,900
+  New Acct:                  $12,200
+  Credit Union:               $8,900
+  PayPal:                     $2,925
+  E*TRADE:                   $25,075
+
+######### Chapter 12 #########
+
+“Hey, my E*TRADE account is earning interest. Cool!”     ??????? $75, while ignoring the $80k in “change” in the safe
+
+On the way to the climbing gym, Brian thinks back to when he first found the duffel bag. How the hell did that even get there? And then the second one. Crazy.
+
+He climbs with Tom and Jake and a few other people he's seen around before. Brian realizes he's climbing pretty well. Maybe it's all the walking and bike rides, or the few pounds he's lost. He just feels lighter on the wall.
+
+Then he notices Mei walk in. Oh.
+
+Brian walks over. “Hey, it's been a while.”
+
+“Yeah. All the flights were canceled because of Harvey, so I got delayed.”
+
+“Are you climbing with anyone today? We have an odd number if you want to jump in.”
+
+“Okay.”
+
+As they walk back over to the group, Mei says, “I had to get a new car. Mine flooded during Harvey, so it was ruined.”
+
+“Oh, wow. Sorry to hear that.”
+
+They continue climbing. After a while, Brian starts thinking about asking her if she wants to get lunch. He keeps putting it off, but near the end of the session he finally asks.
+
+She says yes.
+
+They go to the Cajun place near the gym. During lunch, they somehow get onto the subject of whether either of them is seeing anyone. Neither is.
+
+Mei mentions the new climbing gym on the other side of town.
+
+“Yeah, that place is awesome,” Brian says.
+
+He thinks about it for a second.   “You doing anything tomorrow?”
+
+“I'm free.”
+
+“How about we get coffee or something before we go climb?”
+
+“Sure.”
+
+They exchange numbers and agree to meet at a coffee shop tomorrow, then head to the climbing gym together.
+
+The next morning they meet for coffee before climbing. They talk more about their pasts. Brian tells her a little about his divorce. Mei tells him about a long-term boyfriend back in Taiwan that didn't work out, and some not-so-great dating experiences since she's been in America.
+
+By the time they leave for the climbing gym, it feels a little less like two people who just happened to meet for coffee before climbing.
+
+They climb for a couple of hours and grab lunch on the way back.
+
+Brian drops Mei off at her car. Before she gets out, he leans over and kisses her.
+
+She gets out, and Brian watches her walk toward her car.
+
+Shit. Was that too much?    He sits there thinking about it.
+
+Yeah. Too much. Should've just kissed her lightly.
+
+He'll find out later that, yes, Mei thought so too.
+
+When Brian gets home, he decides he'll probably text her sometime tomorrow afternoon.
+
+That night he starts thinking about the second safe-deposit box. Maybe he'll try the credit union this time.
+
+*Wait. Do credit unions even have them?*
+
+He Googles it. The answer isn't completely clear, but he'll just go in tomorrow and find out. He can make a deposit while he's there.
+
+Before bed, he thinks about the date. It was a lot of fun. Mei is really easy to get along with.
+
+Then he starts thinking about the money again. At the rate he's going, he'll be making deposits for years.
+
+*Ahhh. How do I speed this up?*
+
+Buy and sell another car? Hell no.
+
+eBay wasn't bad. Gambling was fun one day and not fun at all the other. And if he does that enough, it could actually become addicting. Besides, he has other interests. He doesn't want to spend his weekends gambling.
+
+Maybe he can research some things that are easy to sell on eBay.
+
+But then the money ends up in PayPal.
+
+*Great, if I want to buy a bunch of crap on eBay.*    Wait.   *Can I just transfer it to my bank? Or E*TRADE?*
+
+The next day he puts two bundles in his backpack. He'll go to the credit union at lunchtime.
+
+He deposits $1,100 and asks about safe-deposit boxes. They have them, so he gets a large one.
+
+Once he has the key and is alone with the box, he takes the two bundles out of his backpack and puts them inside.
+
+This one is a little smaller.
+
+He moves the bundles around, trying to judge the space.
+
+*Okay. This definitely isn't holding 18. Maybe 12.*   That's fine. Twelve still works.
+
+He'll load the rest later in the week.
+
+Later, Brian does some more research on PayPal. Yes, he can transfer the money to a bank account, or even to E*TRADE. Then he sees the 1099-K stuff again—over 20k and 200 transactions.
+
+*Oh. I totally forgot I already researched this.*   *Should remember next time now.*   I guess that means 20k a year. Oh well. I only have around 3k in there now.
+
+Later that night, he texts Mei.   “Had a great time yesterday! I was thinking about climbing Wednesday if you want to join.”
+
+A few minutes later, she texts back. “Me too! Wednesday works.”
+
+“Great, see you then.”
+
+After work, Brian gets home and loads ten more bundles into his backpack.
+
+At the credit union, he adds them to the safe-deposit box. Looking at the space that's left, he thinks he could probably squeeze two more in, but it would be tight.
+
+*Not worth it. Twelve is good enough.*
+
+Later he does the math. Eighteen in one box, twelve in the other.
+
+30 bundles in safe-deposit boxes.
+
+That leaves sixteen bundles in the safe, plus change.
+
+He smiles.   *Change.*
+
+He decides to actually count it.   95k.    Brian laughs. His salary is 92k a year. What he now calls *change* is more than he makes in a year.
+
+He looks at the sixteen bundles still in the safe. Is that too much to keep in the closet? Maybe he should get another safe-deposit box. *Maybe later.* eBay first.
+
+Brian climbs with Mei on Wednesday and asks if she wants to go to a movie sometime. She agrees.
+
+Later that week, Brian gets back to his eBay research. This time he starts looking at Nintendo Switches. They're new, popular, and apparently still hard to find in some places.
+
+*Okay. This might work.*
+
+He texts Mei, and they make plans to see a movie Saturday night.
+
+Over the next couple of days, Brian starts looking for as many Switches as he can find, stopping at stores during lunch and after work. He finds six at two different Targets, four at Walmart, and seven at Best Buy.
+
+17 Nintendo Switches. He looks at the pile. *Okay. That's enough.*
+
+17 at $299.99 each. Basically $5,100, plus the sales tax he paid.  *I'll just list them Buy It Now for $325. They're hard to find, and I have to ship them.*
+
+He thinks about it. *No. I'll put two up for $350 and see what happens.*
+
+*Okay. Next week. I have a date this weekend.*
+
+He does finally transfer some of the PayPal money, though. He moves $2,500 over to E*TRADE and puts it into the same investments he already has.
+
+*There. More money doing something.*
+
+Date night goes well. Brian finds Mei easy to talk to, something that's kind of rare for him. They agree to climb together again next week and get their schedules synced up.
+
+Next week, it's time to deal with the Switches.
+
+He lists 2 of them for $350 each, Buy It Now. They sell almost immediately.
+
+Okay. That was easy.
+
+He writes down the addresses and plans to ship them during lunch.
+
+He decides he'll list 4 each night, keep the price at $350, and ship whatever sells during lunch the next day. By the end of the week, all 17 are sold and shipped, adding $5,950 to his PayPal balance.
+
+So almost $6k, plus the $3k already in there. Around $9k.
+
+He's getting kind of tired of the lunchtime trips to the post office and then rushing back to work, but it is working. He can do another $10k worth of stuff and still stay under the $20k number.
+
+*That's a lot of work just to avoid taxes.*  He thinks about that.  *Wait. Am I avoiding taxes? Or just avoiding the hassle of filing the taxes?*  He's not even really sure anymore.
+
+He really thinks about it.  *Maybe I could just start an LLC.*  But for what? It can't be some online company. That doesn't help with the cash problem.  And every solution he comes up with just seems like a new job on top of his real job.
+
+*What am I going to do, open a store?*  A climbing shop? That doesn't make much sense. Especially in Houston.   *Haha. No mountains.*
+
+Maybe a small climbing gym.  That is a lot of work too.  But a climbing gym would have day passes. People pay cash for day passes.  *That could kind of work.*
+
+Say 10 extra $20 day passes each weekday. Then 50 each weekend day.   He does the math.    That's around $3k a week.   *Oh. Not that much.*
+
+He thinks about it some more.  *Hey, since we're just dreaming, why not double it?*  $6k a week. Around $300k a year.  Then maybe another $100k a year between his deposits and just spending the cash.    *I could use all of it in 10 years. Maybe 8.*
+
+He sits there for a second.  *That could actually work.*    Except then what?   He owns a climbing gym. Is it even making money? Is that what he really wants to do with his life?
+
+He found $4.8 million and somehow turned it into a second job running a climbing gym.  And then there's something else.  If it actually worked, eventually all the cash would be gone.  No more bundles.  No more ridiculous problem to solve.
+
+He looks toward the safe. Then he would never get to open another bundle again.  Well he actually has not opened a bundle since the wrapped them,   but he imagines it will feel really good.  
+
+Maybe the spend-and-deposit-slowly plan isn't so bad after all. He'd calculated it would take around 30 years, but maybe that's better than trying to become a business owner, something he's never wanted to do anyway.
+
+So that's the current plan. Maybe do some eBay stuff and get close to the $20k each year. Another *hell no* to buying and selling used cars. And maybe gambling on a free weekend once in a while, preferably when there isn't a hurricane coming.  
+
+But it's still sitting in the back of his mind that he's missing some easy way to make better use of all this cash.
+
+It's getting late, almost time for bed, and he thinks about Mei. He texts her.  “Hey, how are you?”  Mei  “Doing good.”  Brian  “Want to FaceTime?”
+
+They end up talking for almost an hour. Mei mentions a restaurant she really likes near her apartment, and they agree to go there this coming weekend.
+
+The next morning, Brian is going through the garage on his way to work when he sees the other safe sitting in the corner. *I guess I should get rid of that.*  He looks at it for a second, trying to remember why he'd been in such a hurry to get everything out of the closet.   *Oh shit. The leak.*
+
+He had completely forgotten about it. He goes back inside and looks at the closet. It's all dry now. It could use some paint, but it doesn't look that bad. *I should probably call a roofer and make sure the roof is okay.* If the roof is okay, or once it's fixed, he can probably just paint over the damage himself.
+
+That week Brian calls a roofer. He replaces a few shingles and tells Brian he might need a new roof in a couple years, but it should hold for now. Brian buys some paint to fix the closet. At some point.
+
+He sees Mei twice that week at the climbing gym, makes a $1,500 deposit at the new bank, does his usual cash bill pay, and puts $1,000 toward the 4Runner payment. He's basically doubling the payment each month now. Might as well get it paid off early.
+
+Friday night is date night at Mei's favorite restaurant, a Japanese place near her apartment. The food is really good. Brian drops her off afterward, and they plan to meet at the climbing gym the next morning.
+
+On the drive home, he thinks about asking her to come over sometime. They could ride bikes near his place. Henderson Park has bike rentals, and the trails around there are nice.
+
+When he gets home, he texts her. “Hey, would you want to go for a bike ride tomorrow afternoon after climbing? Or even Sunday? There's a place near me that rents bikes.”
+
+She replies, “I can't Sunday. I have a school project due, but Saturday afternoon works.”
+
+The next morning they meet at the climbing gym like they planned. After a couple hours of climbing, Mei follows Brian back toward his place. They stop at Henderson Park, rent bikes, and start riding the trails.
+
+During the ride, Brian keeps thinking about next weekend. He's thinking about asking if he can stay at her place Friday night. Her apartment is much closer to the climbing gym, and then they could just go together Saturday morning.
+
+*Would that be too soon?*     And it might feel a little weird pulling up to the climbing gym together in the morning.
+
+He thinks about it for a while before finally asking her.
+
+“Would it be weird if I stayed at your place next Friday? Since we're climbing Saturday anyway.”
+
+Mei thinks about it for a second. “Maybe. Let me think about it.”
+
+“Okay.” Now he has to spend the rest of the weekend wondering what *maybe* means.
+
+Sunday, Brian really doesn't have anything to do. He thinks about the *maybe* for a while, then starts thinking about the money. It feels like he has no plan for it again. The Switches are all sold, and he doesn't really feel like doing more of that right now.
+
+He finds his old list.
+
+SQL tutoring  
+Climbing lessons  
+Garage sale resale  
+Gambling  
+Buy/sell cars  
+Flip a house  
+Buy/sell sports cards  
+Buy/sell watches  
+Other collectibles  
+Storage auctions
+
+None of it sounds interesting at all right now.  *Let's brainstorm some more.*    He stops.   *Wait. I thought I was okay with the slow, long method.*  Oh well. At least this feels like doing something.   30 minutes later, he hasn't come up with anything.
+
+He decides to go for a walk instead. Then another idea pops into his head.   *Hey, why not go back to the bushes and look?*   It's been a couple months since the guy at the Verizon store asked why he was always hanging around there. And the whole area got flooded during Harvey.    *Let's see.*
+
+Get there the woods behind the bushes are water logged still, make a pass down the bushes, there is alot of debris nothing that looks like a duffel bag or a pile of $100 bills
+
+He walks home and thinks about taking a trip somewhere, but it doesn't feel like the right time.
+
+*What about new furniture for the townhome?*
+
+He thinks about how it's still filled with stuff he bought in basically a single day after moving in. Except for the garage. Somehow the stuff in the garage is better than the furniture inside, and he barely even uses it anymore. Even the garage TV is better. It mostly just sits there unless it's raining and he gets on the treadmill for a few minutes.
+
+Later that night, Mei calls him on FaceTime. She talks about a presentation she's nervous about at school.
+
+Then she says, “About the sleepover. Yeah, I'm good with that. Sorry, I just needed to think about it.”
+
+“Okay, so Friday. Maybe we could eat somewhere or something.”
+
+“Sure.”
+
+Brian thinks about the furniture again. “Hey, you've seen my apartment. Do you think I could use some new, better furniture?”
+
+Mei laughs. “It does look totally like a guy's apartment.”
+
+“So that's not good?”
+
+“It's fine.”
+
+“Maybe you could help me look at furniture.”
+
+“Oh, that would be so fun.”
+
+*Shit. How do I pay with a wad of cash with her there?*
+
+He guesses he could just walk away when it's time to pay.
+
+*Well, we're not there yet. I'll figure it out.*
+
+Brian climbs with Mei again that week, and she seems really excited about the furniture shopping. She mentions West Elm and says they have really nice stuff.
+
+*Expensive,* Brian thinks.
+
+“Okay, we can try that one weekend.”
+
+They agree.
+
+Brian also makes a $1,200 deposit into his credit union account and move $5,000 from Paypal to his E-Trade account that week. 
+
+Then it's time to get ready for Friday night at Mei's, climbing Saturday morning, and maybe furniture shopping afterward.
+
+**Inventory**
+Cash:
+  Safe:                   16 bundles + change
+  Safe Deposit Box 1:     18 bundles
+  Safe Deposit Box 2:     12 bundles
+Accounts:
+  Primary Acct Deposits:     $17,900
+  New Acct:                  $13,700
+  Credit Union:              $11,200
+  PayPal:                     $1,375
+  E*TRADE:                   $32,625
+
+######### Chapter 13 #########
+
+That Friday night they go to a tiki bar that serves food and drinks, recommended by a few people from the climbing gym. It's good, but Brian has a few super-sweet drinks that don't leave him feeling that great afterward.
+
+Back at Mei's apartment, they start the first episode of some new Netflix show. Brian is a little confused by this. He doesn't just start a series without researching it first. Maybe a movie, sure, but committing to a whole series takes some research.
+
+Apparently Mei will just start watching something, and if it's not good, she'll stop.
+
+Haha. Is that crazy, or am I crazy?
+
+Brian doesn't sleep very well that night. The bed is kind of small, and Mei keeps pulling the covers off him. But it's probably mostly the sugary drinks. He wakes up several times with a super-dry mouth.
+
+They have some coffee in the morning, then Brian recommends stopping at Whataburger for a breakfast sandwich, his usual Saturday morning stop.
+
+Mei is not impressed with Whataburger.
+
+Whatever. I'm from Texas. Whataburger is awesome.
+
+It's delicious, and he remembers eating it with his grandpa when he was a kid and would ride along with him on deliveries. People always say Texans overrate Whataburger.
+
+*They're so wrong. But I guess next time we can try something else.*
+
+Walking into the gym together that morning feels a little weird. They usually meet here separately, and now they're walking in together after Brian spent the night at her place.
+
+*Everyone is going to know.*
+
+But nobody seems to notice or care. After a few minutes, Brian realizes he's probably the only one who thought it was a big deal.
+
+While they're climbing, they talk about the furniture shopping. Mei wants to go that afternoon and seems way more excited about it than Brian.
+
+They grab some ramen after climbing before heading over to West Elm. Mei asks what he wants to get.
+
+“Everything, I guess.”
+
+“What does that mean?”
+
+Brian thinks about it. He's not really sure.
+
+*Maybe that's something I should've thought about before we went furniture shopping.*
+
+Mei pulls out her phone. “Okay, let's make a list.”
+
+Brian watches her start typing.
+
+*Wow. I like this girl.*
+
+so they start naming thinks and come with a list of
+
+Couch
+Coffee table
+TV stand
+Dining table & chairs
+Bed frame
+Nightstands
+Dresser
+Living room rug
+Lamps
+Wall art
+
+Brian pauses for a second when she adds wall art.  Art. Maybe that could work with the cash somehow.  He makes a mental note to look into it later.
+
+Then they're off to the store.  Brian rushes out to the 4-Runner as he did not plan this out too well, he needs cash has like 2,000 on him, he grabs the 5k from glove box and the 5k from under the seat, folds it up tightly and put in back pocket.
+
+They start with the couch. Brian looks around for a while, then turns to Mei. “You're going to have to help me pick this stuff. Like, pretend you live there too.”     She smiles. “Okay.”
+
+They find a couch they both like, then a coffee table. From there, the rest gets easier. They start picking furniture that goes with the same style as the coffee table.  
+
+When they get to the rugs, Brian starts thinking.    *Aren't some rugs investments? Kind of like art? Maybe I should wait on this.*  Then he looks at the growing list of furniture they're going to be moving around.   *No. Let's just do it now.*   They pick a rug.
+
+Brian spots an ottoman and coffee table combo and thinks it might work well at Mei's place. Her couch is small, and she doesn't have a coffee table. He looks it over. “This is nice.” “Yeah, it is.” “I was actually thinking for your apartment. It could make the couch feel a little bigger. I could get it for you.” “No, I can't let you do that.”
+
+“Let me get it. As a thank you for helping me with all this. It would fit really well.” Mei looks at it again. “It would.” “I'm adding it,” Brian says.
+
+When they get to the wall art, though, everything looks like pretty basic decorative stuff. Brian decides to leave the walls empty for now. *I'll look into the art thing later.*
+
+They talk to the saleswoman and track down everything on their list. She asks about delivery. “Yes, definitely.” Brian gives her his address. Then he looks over at Mei. “Hey, you want to go grab Starbucks while I pay?” Mei looks at him a little strangely. “Right now?” “Yeah, I'll meet you over there when I'm done.” She pauses for a second. “Okay, sure.” She walks off, and Brian watches until she's out of sight. *Okay. Maybe I should've planned this part better.*
+
+The total comes to $11,486. At the register, Brian pulls out the cash and starts counting it into little $1k stacks. He has enough, but somewhere around $8k he slows down. *Wait. Isn't there something about $10k?* He knows that number from the bank stuff, but he has no idea if it matters when you're buying furniture. *Probably not. Maybe?* He looks at the cash still in his hand. *Why am I figuring this out at the register?* He chickens out. “Here's $9,500 cash. Put the rest on this card.”
+
+The saleswoman takes the card. “Would you like to apply—” “NO!” She looks at him. Brian lowers his voice. “No, thank you.”  she says “Okay. They'll call you next week with the delivery dates.”
+
+As she finishes ringing everything up, Brian looks at the card in his hand. *Why did I use a credit card? That kind of defeats the whole purpose.* He could've just paid cash. Then he thinks about Mei. *Shit. I just sent her away so I could pay without her watching. That probably looked really weird.*
+
+He finds her at Starbucks and immediately says, “Sorry. That was weird, making you leave like that.” Mei shrugs. “It's fine. I've been thinking about that ottoman in my apartment. I really don't have anything nice as a student.” Brian laughs. *Okay. Good.* He orders a coffee and a chocolate croissant.
+
+“What are you doing tonight?” he asks. “Nothing.” Brian takes a sip of his coffee. “Well, I'm watching the Astros tonight. It's Game 7. If they win, they're going to the World Series. You could come over and watch it with me.” “Yeah, I'd like that.” Brian pauses. “And you could stay over. If you want.” *Why did that suddenly feel so hard to say?* Before she can answer, he adds, “You'll have to deal with my guy furniture for another week or so.” Mei smiles. “Oh, yes.”
+
+Brian is still in shock. The Astros are going to the World Series.
+
+The next morning, he and Mei go out for a quick breakfast before she heads home. They agree to climb together sometime during the week and maybe get dinner afterward.
+
+Then Brian is alone in the townhouse again. There are still 16 bundles in the safe. He'll make his usual deposits this week, but somehow he always feels like he needs another plan for the money.
+
+He thinks about the art from yesterday. *Could I just buy art with cash and then sell it somewhere else and get a check?* He has no idea how selling art even works. Galleries? Auctions? Maybe people just sell paintings to other people.
+
+He opens his laptop. *Wait. Is this my life now? Buy things with cash just to turn them into something that's not cash?* He doesn't really want to do that. Maybe one painting would be different. Something he actually keeps on the wall and sees if it goes up in value over time. The whole idea doesn't interest him much, but maybe one day he'll see a painting that just speaks to him. *Okay. Art can wait.*
+
+Sending Mei away while he paid still bothers him. He doesn't want to keep doing stuff like that. *What about prepaid credit cards?* He could load one up and use it until the money is gone. Probably not for something like $11,000 worth of furniture, but dinners, groceries, normal stuff.
+
+He searches for a while and realizes they're actually prepaid debit cards. Green Dot has a Visa he can buy at Walmart and reload with cash. *Okay. This might actually be useful.* Then he starts reading about registration, fees and load limits.  *Of course. Nothing can ever just be simple.*  But getting one with maybe $2k on it is a good test,  "haha another test"
 
 
 
@@ -430,15 +2424,6 @@ But somehow he's always slightly paranoid.
 
 
 
----------------------------------------- OLD
-
-/*Arrives at the parking lot at 7:45 am, sits in the car just looking around, see the bush and seems no one is looking around.  No one around as the food places and Verizon wireless in the shopping center will not open for another 2 hours.   Decides to go walk to the bush, sees nothing.  keeps walking past the row of bushes then goes in some and walks on the back side of the row of bushes, does not see anything else suspicious.   Takes anoter walk back look into the forest behind the bushes, see nothing.   Not really sure what he is expecting sings of some kind of drug money or some kind of robbery, but nothing there.  "Ok im out of here, I'v been here too long" he thinks.
-
-Its close to 9 am so drives to the bank and does the second deposit, goes off with no problem.  picks up a breakfast sandwich on the way home. */
-
-
-/* and been thinking of a small wall to train and build finger strength.  Thought that would be perfect to hide the safe, so turns safe so it opens towards the side instead of the garage door.   thinking well should of done that from the beginning. 
-Then starts imagining the climbing wall, measure 4 feet from corner to the TV,  .....   */
 
 
 
@@ -446,14 +2431,34 @@ Then starts imagining the climbing wall, measure 4 feet from corner to the TV,  
 
 
 
-Climbing Wall
-More deposits
-Break $100s / accumulate normal cash
-Return to bush
-Second bag — timing unknown
-Normal life continues
-Eventually research cash problem
-Future: move / tell anyone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CONTINUITY: Move story timeline forward one year. Beginning is now 2017. Fix dates/car model references later.] 
+
+--One night Brian is watching *The Sopranos*. Tony is talking about needing legitimate income and a W-2. Brian pauses the TV.
+--*Holy shit. I can actually relate to Tony Soprano now.*
+--Not the mob part. Not the murdering people part.  Just the problem of having money and needing some normal way to explain where it comes from.
+--He looks toward the bedroom.  *Okay, maybe that's not a great sign.*
+
+
+
+
+
+
 
 
 
